@@ -1,0 +1,10 @@
+{
+	"id": "pretty-punctuation",
+	"name": "Pretty Punctuation",
+	"version": "0.1.0",
+	"minAppVersion": "1.4.0",
+	"description": "Displays curly quotes, dashes, ellipses, and arrows without changing the file.",
+	"author": "Philip Linden",
+	"authorUrl": "https://github.com/philiplinden",
+	"isDesktopOnly": false
+}
